@@ -1,0 +1,248 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+nav ul li {
+    display: inline-block;
+    margin: 15px 50px;
+
+    
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: medium;
+    letter-spacing: 0.145em;
+}
+ nav {
+  
+    background-color: #C5DFEB;
+   width: 1535px;
+   height: 110;
+   left: 0px;
+   top: 0px;
+position:absolute;
+text-align: center;
+
+    
+ }
+
+ 
+.logo{
+   font-size:30px ;
+   font-weight: bold;
+   text-align: center; 
+}
+.img{
+   position: absolute;
+width: 690px;
+height: 500px;
+left: 50px;
+top: 150px;
+}
+.box{
+    position: absolute;
+    width: 690px;
+    height: 500px;
+    right: 50px;
+    top: 150px;
+    
+    background: #C5DFEB;
+}
+.about{
+    position: absolute;
+width: 233px;
+height: 54px;
+right: 250px;
+top: 200px;
+
+font-family: 'Poppins';
+text-transform: uppercase;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+letter-spacing: 0.105em;
+
+color: #000000;
+}
+/* .infromation{
+    font-size: 14px;
+} */
+.pp{
+    position: absolute;
+    text-align: center;
+    width: 30%;
+    top: 280px;
+    right: 170px;
+    
+   
+}
+/* .Chatbttn{
+    position: absolute;
+    width: 150px;
+    height: 60px;
+    right: 300px;
+    top: 500px;
+    
+    background: black;
+} */
+.button{
+    position: absolute;
+    width: 150px;
+    height: 60px;
+    right: 300px;
+    top: 500px;
+    color: black;
+    background: black;
+}
+h1{
+    position: absolute;
+/* width: 643px; */
+right: 400px;
+top: 1500px;
+
+font-family: 'Poppins';
+text-align: center;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+
+color: #000000;
+}
+.subinformation{
+    width: 1219px;
+height: 144px;
+    position: absolute;
+    /* width: 643px; */
+    right: 100px;
+    top: 1600px;
+    
+    font-family: 'Poppins';
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 179.5%;
+    /* identical to box height */
+    
+
+    
+    color: #000000;
+}
+.a{
+    position: absolute;
+width: 412px;
+height: 578px;
+left: 100px;
+top: 750px;
+
+background: #C4C4C4;
+}
+.b{
+    position: absolute;
+width: 412px;
+height: 578px;
+left: 600px;
+top: 750px;
+
+background: #C4C4C4;
+}
+.c{
+    position: absolute;
+width: 412px;
+height: 578px;
+right: 50px;
+top: 750px;
+
+background:  #C4C4C4;
+}
+.Shadowbox{
+    position: absolute;
+    width: 412px;
+    height: 578px;
+    left: 50px;
+    top: 700px;
+    
+    background: #C5DFEB;
+}
+footer{
+    left: 100px;
+   top: 2300px;
+position:absolute;
+
+}
+footer ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: medium;
+    letter-spacing: 0.145em;
+
+}
+footer ul li {
+    display: inline-block;
+    margin: 15px 50px;
+    text-align: center;
+
+    
+}
+.Lowerbox{
+    position: absolute;
+width: 1535px;
+height: 200px;
+left: 0px;
+top: 1800px;
+
+background: #C5DFEB;
+}
+.ImageForDown1{
+    position: absolute;
+    width: 308px;
+    height: 308px;
+    left: 50px;
+    top: 1900px;
+    
+ 
+}
+.ImageForDown2{
+    position: absolute;
+width: 308px;
+height: 308px;
+left: 423px;
+top: 1900px;
+
+
+
+}
+.ImageForDown3{
+    position: absolute;
+    width: 308px;
+    height: 308px;
+    right: 423px;
+    top: 1900px;
+    
+}
+.ImageForDown4{
+    position: absolute;
+    width: 308px;
+    height: 308px;
+    right: 50px;
+    top: 1900px;
+    
+  
+}
+.talaImage{
+    align-items: center;
+   
+}
+
+    
